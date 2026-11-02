@@ -1,0 +1,4 @@
+*.exe 
+.vscode/ 
+Week7.c 
+main.c 
